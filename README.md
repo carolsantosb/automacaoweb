@@ -6,10 +6,15 @@
 - Ter o java instalado e configurado na máquina
 
 
+## Repositório
+
+Faça o clone do repositório
+```bash
+https://github.com/carolsantosb/automacaoweb.git
+```
+
 ## Instalação
-
-Faça o clone do repositório e instale as dependências utilizando o comando abaixo:
-
+Instale as dependências utilizando o comando abaixo:
 ```bash
 npm install
 ```
