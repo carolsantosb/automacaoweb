@@ -10,7 +10,7 @@
 
 Faça o clone do repositório
 ```bash
-https://github.com/carolsantosb/automacaoweb.git
+git clone https://github.com/carolsantosb/automacaoweb.git
 ```
 
 ## Instalação
