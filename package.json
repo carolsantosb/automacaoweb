@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx wdio ./wdio.conf.js",
-    "reports": "start ./results/timeline-report.html"
+    "reports": "start ./results/timeline-report.html || open ./results/timeline-report.html || xdg-open ./results/timeline-report.html"
   },
   "keywords": [],
   "author": "",
